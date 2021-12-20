@@ -1,4 +1,5 @@
 ### Olá,  Sou Rafael Samary🖐️
+#### Comecei com desenvolvimento, com linguagens, PASCAL, BASIC e Cobol, mas fui para área de infraestrutura, agora estou retomando a paixão inicial, me tornando um DEV.
 <BR>
 
 
